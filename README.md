@@ -13,7 +13,8 @@ Projeto desenvolvido em Flutter para calcular e apresentar o IMC
 
 ## Wireframes
 
-![Wireframe Home](./assets/Captura%20de%20tela%202025-05-21%20153903.png)
+![Wireframe Home](![Captura de tela 2025-05-21 153903 (1)](https://github.com/user-attachments/assets/c166cdf3-8d65-411c-9876-fc7804d90416)
+)
 
 ## Como testar
 - 1 Clonar o repositório
