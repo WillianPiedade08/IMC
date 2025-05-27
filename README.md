@@ -1,6 +1,6 @@
 # IMC
 
-Projeto desenvolvido em Flutter para calcular e apresentar o IMC
+Projeto de Flutter e desenvolver o IMC
 
 ## Tecnologias Utilizadas
 
